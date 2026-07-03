@@ -7,14 +7,14 @@
 **The cinematic mouse-tracking zoom engine for OBS Studio.**
 Your camera follows your mouse. Automatically. No editing needed.
 
-[![Version](https://img.shields.io/badge/version-1.0-7c5cfc?style=for-the-badge&labelColor=111118)](https://github.com/gipstamusic/pro-autozoom-obs/releases/latest)
+[![Version](https://img.shields.io/badge/version-1.0-7c5cfc?style=for-the-badge&labelColor=111118)](https://github.com/gipstamusic/pro-autozoom-ultimate/releases/latest)
 [![License](https://img.shields.io/badge/license-MIT-34d399?style=for-the-badge&labelColor=111118)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows-60a5fa?style=for-the-badge&labelColor=111118)](https://github.com/gipstamusic/pro-autozoom-obs/releases/latest)
+[![Platform](https://img.shields.io/badge/platform-Windows-60a5fa?style=for-the-badge&labelColor=111118)](https://github.com/gipstamusic/pro-autozoom-ultimate/releases/latest)
 [![OBS](https://img.shields.io/badge/OBS-29%2B%20%26%2030%2B-fbbf24?style=for-the-badge&labelColor=111118)](https://obsproject.com)
 
-[⬇ Download v1.0](https://github.com/gipstamusic/pro-autozoom-obs/releases/latest) &nbsp;·&nbsp;
+[⬇ Download v1.0](https://github.com/gipstamusic/pro-autozoom-ultimate/releases/latest) &nbsp;·&nbsp;
 [📖 Help Guide](help.html) &nbsp;·&nbsp;
-[🐛 Report a Bug](https://github.com/gipstamusic/pro-autozoom-obs/issues)
+[🐛 Report a Bug](https://github.com/gipstamusic/pro-autozoom-ultimate/issues)
 
 </div>
 
@@ -57,7 +57,7 @@ You hit a hotkey. The camera turns on. From that point, wherever your mouse goes
 
 ### Install
 
-1. Download `ProAutoZoom_v1.0_Setup.exe` from the [Releases page](https://github.com/gipstamusic/pro-autozoom-obs/releases/latest)
+1. Download `ProAutoZoom_v1.0_Setup.exe` from the [Releases page](https://github.com/gipstamusic/pro-autozoom-ultimate/releases/latest)
 2. Run it — the installer places the script in your OBS scripts folder automatically
 3. In OBS: **Tools → Scripts → +** → select `Pro_auto_zoom_ultimate_v1.0_community_edition.lua`
 
@@ -176,7 +176,7 @@ Turn on **Debug Mode** and check the `CANVAS DIAG` line in the script log to con
 ## Repository Structure
 
 ```
-pro-autozoom-obs/
+pro-autozoom-ultimate/
 ├── Pro_auto_zoom_ultimate_v1.0_community_edition.lua   # The script
 ├── help.html                                           # Full interactive help guide
 ├── README.md                                           # Readme file

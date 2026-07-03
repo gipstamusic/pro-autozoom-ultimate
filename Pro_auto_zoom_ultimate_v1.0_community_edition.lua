@@ -1,8 +1,9 @@
--- ==============================================================================
+git-- ==============================================================================
 -- PRO AUTOZOOM (ULTIMATE COMMUNITY EDITION) - v1.0.0
 -- Cinematic mouse-tracking zoom engine for OBS Studio (Windows)
 -- Developed by: Gipstamusic
 -- Website: https://lnk.bio/gipstamusic
+-- Github: https://github.com/gipstamusic/pro-autozoom-ultimate
 -- License: MIT (see LICENSE)
 -- Compatibility: OBS 29.x & OBS 30+ Universal Layer (Windows)
 -- ==============================================================================
